@@ -1,0 +1,30 @@
+.login h1 {
+  margin-left: 16px;
+}
+
+.login {
+  margin-left: 30%;
+  margin-top: 10%;
+}
+
+.appButton {
+  margin: 20px;
+  width: 150px;
+  padding: 10px;
+  background-color: skyblue;
+  border: 1px solid;
+  cursor: pointer;
+}
+
+.inputBox {
+  display: block;
+  padding: 7px;
+  border: 1px solid skyblue;
+  width: 300px;
+  margin: 20px;
+}
+
+.error-text {
+  color: #b40e0e;
+  margin: 20px;
+}

@@ -1,0 +1,15 @@
+# APP configs and secrets
+.env*
+!.env.example
+
+# Dependency directory
+node_modules
+
+# Editors
+.idea
+.vscode
+*.iml
+
+# OS metadata
+.DS_Store
+Thumbs.db

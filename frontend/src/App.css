@@ -1,0 +1,23 @@
+.App {
+  background-color: #eee;
+  height: 100vh;
+}
+
+.inputBox {
+  display: block;
+  padding: 7px;
+  border: 1px solid skyblue;
+  width: 300px;
+  margin: 20px;
+}
+
+.search-bar-container {
+  padding-top: 30vh;
+  width: 40%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+} 
+
+

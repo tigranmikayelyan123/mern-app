@@ -1,0 +1,10 @@
+.city {
+  padding: 1rem;
+  font-weight: bold;
+  font-size: 1.25rem;
+  list-style-type: none;
+}
+
+.city:last-of-type {
+  border-bottom: none;
+}

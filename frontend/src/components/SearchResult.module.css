@@ -1,0 +1,15 @@
+.search-result {
+  display: flex;
+  padding: 10px 20px;
+  justify-content: space-between;
+}
+
+.search-result:hover {
+  background-color: #efefef;
+}
+
+.saveButton {
+  color: white;
+  border: none;
+  background-color: skyblue;
+}

@@ -1,0 +1,33 @@
+.register {
+  margin-left: 30%;
+  margin-top: 10%;
+}
+
+.register h1,
+.login h1 {
+  margin-left: 16px;
+}
+
+.invalid input {
+  border: 1px solid #b40e0e;
+  background-color: #fddddd;
+}
+
+.invalid input:focus {
+  border-color: #ff8800;
+  background-color: #fbe8d2;
+}
+
+.appButton {
+  margin: 20px;
+  width: 150px;
+  padding: 10px;
+  background-color: skyblue;
+  border: 1px solid;
+  cursor: pointer;
+}
+
+.error-text {
+  color: #b40e0e;
+  margin: 20px;
+}
